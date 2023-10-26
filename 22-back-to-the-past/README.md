@@ -27,6 +27,6 @@ Solution: https://hackmd.io/@blackb6a/hkcert-ctf-2022-ii-en-6a196795
 ## Flag
 
 ```
-hkcert22{f0r3ns1c_1s_fun_t0_pl4y_w1th}
+hkcert22{n0stalgic_w3bs1t3_br1ings_m3_b4ck_to_2000}
 ```
 
